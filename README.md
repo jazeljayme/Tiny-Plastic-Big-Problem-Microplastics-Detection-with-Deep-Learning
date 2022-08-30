@@ -1,0 +1,3 @@
+# Tiny-Plastic-Big-Problem-Microplastics-Detection-with-Deep-Learning
+
+In successfuly demonstrating the use of YOLOv5 as a tool that can reliably count and classify microplastic in hologram images, the authors showed that using a deep learning model like YOLOv5 can aid in automating feature extraction and hastening the classification of hologram images. The short inference time and low file size potentially enables researchers and environmentalists alike to use this model in situ given recent innovations in portable hologram imaging devices. The implementation can be developed further by including the type of microplastic in the annotations and using video samples to enable the detection of objects under digital holographic microscopes in real-time.
